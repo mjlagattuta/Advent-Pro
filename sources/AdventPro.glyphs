@@ -2,10 +2,7 @@
 .appVersion = "1141";
 DisplayStrings = (
 "/.notdef/NULL/CR  !\"#$%&'()*+,-.//0123456789:;<=>?@@ABCDEFGHIJKLMNOPQRSTUVWXYZ[/backslash ]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥§¨©ª«­®¯°±´µ¶¸»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïñòóôõö÷øùúûüýþ/ydieresis/Amacron/amacron/Abreve/abreve/Aogonek/aogonek/Cacute/cacute/Ccircumflex/ccircumflex/Cdotaccent/cdotaccent/Ccaron/ccaron/Dcaron/dcaron/Dcroat/dslash/Emacron/emacron/Edotaccent/edotaccent/Eogonek/eogonek/Ecaron/ecaron/Gcircumflex/gcircumflex/Gbreve/gbreve/Gdotaccent/gdotaccent/Gcommaaccent/gcommaaccent/Hcircumflex/hcircumflex/Hbar/hbar/Itilde/itilde/Imacron/imacron/Iogonek/iogonek/Idot/dotlessi/Jcircumflex/jcircumflex/Kcommaaccent/kcommaaccent/kgreenlandic/Lacute/lacute/Lcommaaccent/lcommaaccent/Lcaron/lcaron/Lslash/lslash/Nacute/nacute/Ncommaaccent/ncommaaccent/Ncaron/ncaron/Eng/eng/Omacron/omacron/Ohungarumlaut/ohungarumlaut/OE/oe/Racute/racute/Rcommaaccent/rcommaaccent/Rcaron/rcaron/Sacute/sacute/Scircumflex/scircumflex/scedilla/Scaron/scaron/Tcommaaccent/tcommaaccent/Tcaron/tcaron/Tbar/tbar/Utilde/utilde/Umacron/umacron/Ubreve/ubreve/Uring/uring/Uhungarumlaut/uhungarumlaut/Uogonek/uogonek/Ydieresis/Zacute/zacute/Zdotaccent/zdotaccent/Zcaron/zcaron/Scommaaccent/scommaaccent/dieresistonos/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Upsilontonos/Omegatonos/iotadieresistonos/Alpha/Beta/Gamma/uni0394/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Iotadieresis/Upsilondieresis_alt/alphatonos/epsilontonos/etatonos/iotatonos/upsilondieresistonos/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/uni03BC/nu/xi/omicron/pi/rho/sigma1/sigma/tau/upsilon/phi/chi/psi/omega/iotadieresis/upsilondieresis/omicrontonos/upsilontonos/omegatonos/quoteleft/quoteright/quotesinglbase/quotedblleft/quotedblright/quotedblbase/bullet/ellipsis/perthousand/guilsinglleft/guilsinglright/fraction/Euro/trademark/Ohm/increment/f_f/f_i/f_l/f_f_l/CR.001/Upsilondieresis/_394/w_w_w/f_t/t_t/Y_alt/y_alt/Ydieresis_alt/Yacute_alt/yacute_alt/ydieresis_alt/Upsilon_alt/dotlessj/sigma_chi/sigma_tau/lambda_lambda/gamma_gamma/gamma_kappa/Upsilontonos_alt/Omega",
-"Advent Pro\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0121234567890 &",
-"ÀÁÂÃÄÅ",
-"CÇ/cedillacomb ß/iogonek/circumflexcomb/caroncomb/brevecomb/dotaccentcomb/ringcomb/cedillacomb/ogonekcomb/tildecomb/hungarumlautcomb/dieresistonos",
-"i/dotlessi íîïì/imacron/iogonek/itilde \012ádvent"
+"Advent Pro\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0121234567890 &"
 );
 copyright = "Copyright (c) 2008 Andreas Kalpakidis (hello@inderesting.com), with Reserved Font Name \"Advent Pro\"";
 customParameters = (
@@ -32820,7 +32817,7 @@ unicode = 0219;
 },
 {
 glyphname = germandbls;
-lastChange = "2018-08-10 22:03:10 +0000";
+lastChange = "2018-08-10 22:04:16 +0000";
 layers = (
 {
 background = {
@@ -33009,89 +33006,6 @@ nodes = (
 width = 515;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"385 -13 OFFCURVE",
-"420 -2 QCURVE",
-"477 18 OFFCURVE",
-"504 70 QCURVE",
-"525 109 OFFCURVE",
-"525 147 QCURVE",
-"525 150 OFFCURVE",
-"525 154 QCURVE",
-"523 195 OFFCURVE",
-"493 260 OFFCURVE",
-"467 288 QCURVE",
-"452 305 OFFCURVE",
-"408 344 OFFCURVE",
-"378 370 OFFCURVE",
-"347 403 OFFCURVE",
-"340 416 QCURVE",
-"332 430 OFFCURVE",
-"332 447 QCURVE",
-"332 462 OFFCURVE",
-"342 477 QCURVE",
-"362 476 LINE",
-"388 499 OFFCURVE",
-"396 537 QCURVE",
-"398 552 OFFCURVE",
-"398 566 QCURVE",
-"398 589 OFFCURVE",
-"391 612 QCURVE",
-"379 648 OFFCURVE",
-"299 701 OFFCURVE",
-"239 701 QCURVE",
-"166 701 OFFCURVE",
-"78 611 OFFCURVE",
-"78 537 QCURVE",
-"78 0 LINE",
-"187 0 LINE",
-"187 506 LINE",
-"187 596 OFFCURVE",
-"247 596 QCURVE",
-"276 596 OFFCURVE",
-"286 574 QCURVE",
-"290 565 OFFCURVE",
-"290 556 QCURVE",
-"290 543 OFFCURVE",
-"282 530 QCURVE",
-"268 507 OFFCURVE",
-"238 507 QCURVE",
-"222 479 OFFCURVE",
-"220 452 QCURVE",
-"219 444 OFFCURVE",
-"219 437 QCURVE",
-"219 419 OFFCURVE",
-"223 405 QCURVE",
-"229 385 OFFCURVE",
-"264 337 OFFCURVE",
-"295 307 OFFCURVE",
-"348 257 OFFCURVE",
-"362 243 QCURVE",
-"409 195 OFFCURVE",
-"409 154 QCURVE",
-"409 132 OFFCURVE",
-"395 113 QCURVE",
-"385 98 OFFCURVE",
-"364 94 QCURVE",
-"358 93 OFFCURVE",
-"352 93 QCURVE",
-"335 93 OFFCURVE",
-"314 100 QCURVE",
-"284 111 OFFCURVE",
-"256 138 QCURVE",
-"208 37 LINE",
-"248 4 OFFCURVE",
-"306 -8 QCURVE",
-"328 -13 OFFCURVE",
-"350 -13 QCURVE"
-);
-}
-);
-};
 layerId = "8A94633D-DA21-409C-A8B7-00A83612E8B2";
 paths = (
 {
@@ -33100,8 +33014,11 @@ nodes = (
 "449 -13 OFFCURVE",
 "525 50 OFFCURVE",
 "525 154 CURVE SMOOTH",
-"525 311 OFFCURVE",
-"332 310 OFFCURVE",
+"525 243 OFFCURVE",
+"468 284 OFFCURVE",
+"416 322 CURVE SMOOTH",
+"374 353 OFFCURVE",
+"332 376 OFFCURVE",
 "332 425 CURVE SMOOTH",
 "332 437 OFFCURVE",
 "334 447 OFFCURVE",
@@ -33113,7 +33030,7 @@ nodes = (
 "344 701 OFFCURVE",
 "245 701 CURVE SMOOTH",
 "140 701 OFFCURVE",
-"78 635.667 OFFCURVE",
+"78 636 OFFCURVE",
 "78 519 CURVE SMOOTH",
 "78 0 LINE",
 "187 0 LINE",
@@ -33130,8 +33047,11 @@ nodes = (
 "224 477 OFFCURVE",
 "219 447 OFFCURVE",
 "219 423 CURVE SMOOTH",
-"219 293 OFFCURVE",
-"409 248 OFFCURVE",
+"219 348 OFFCURVE",
+"269 298 OFFCURVE",
+"329 256 CURVE SMOOTH",
+"372 226 OFFCURVE",
+"409 195 OFFCURVE",
 "409 154 CURVE SMOOTH",
 "409 122 OFFCURVE",
 "387 93 OFFCURVE",
@@ -59752,7 +59672,7 @@ unicode = 0306;
 },
 {
 glyphname = ringcomb;
-lastChange = "2018-08-10 21:37:19 +0000";
+lastChange = "2018-08-10 22:04:57 +0000";
 layers = (
 {
 layerId = "BADA37E3-C95E-4946-BA48-1F986F6D85A7";
@@ -59857,11 +59777,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"103 632 OFFCURVE",
-"96 634 OFFCURVE",
-"89 640 CURVE",
-"83 647 OFFCURVE",
-"81 654 OFFCURVE",
+"96 632 OFFCURVE",
+"81 641 OFFCURVE",
 "81 661 CURVE SMOOTH",
 "81 677 OFFCURVE",
 "96 692 OFFCURVE",
