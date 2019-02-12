@@ -1,7 +1,7 @@
 {
 .appVersion = "1192";
 DisplayStrings = (
-"Advent Pro\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0121234567890 &"
+"Advent Pro\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0121234567890 &3"
 );
 classes = (
 {
@@ -30527,7 +30527,7 @@ unicode = 0032;
 },
 {
 glyphname = three;
-lastChange = "2018-08-21 12:58:42 +0000";
+lastChange = "2019-02-12 03:55:37 +0000";
 layers = (
 {
 layerId = "BADA37E3-C95E-4946-BA48-1F986F6D85A7";
@@ -30663,46 +30663,6 @@ nodes = (
 }
 );
 width = 415;
-},
-{
-associatedMasterId = "8A94633D-DA21-409C-A8B7-00A83612E8B2";
-layerId = "98006E7A-6C5F-4B46-A076-E2FA48892B3F";
-name = "{70off}";
-paths = (
-{
-closed = 1;
-nodes = (
-"333 -12 OFFCURVE",
-"410 91 OFFCURVE",
-"410 201 CURVE SMOOTH",
-"410 306 OFFCURVE",
-"343 405 OFFCURVE",
-"216 412 CURVE SMOOTH",
-"206 413 LINE",
-"354 635 LINE",
-"354 700 LINE",
-"67 700 LINE",
-"67 631 LINE",
-"273 631 LINE",
-"82 345 LINE",
-"192 345 LINE SMOOTH",
-"291 345 OFFCURVE",
-"340 275 OFFCURVE",
-"340 201 CURVE SMOOTH",
-"340 127 OFFCURVE",
-"291 57 OFFCURVE",
-"198 57 CURVE SMOOTH",
-"145 57 OFFCURVE",
-"101 81 OFFCURVE",
-"74 125 CURVE",
-"21 83 LINE",
-"60 24 OFFCURVE",
-"126 -12 OFFCURVE",
-"198 -12 CURVE SMOOTH"
-);
-}
-);
-width = 432;
 }
 );
 unicode = 0033;
