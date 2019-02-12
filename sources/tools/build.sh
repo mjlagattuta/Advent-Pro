@@ -1,6 +1,7 @@
 fontmake -o variable -g AdventPro.glyphs
 
 rm -rf master_ufo
+rm -rf instance_ufo
 
 cd variable_ttf
 
